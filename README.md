@@ -1,2 +1,2 @@
 # Football-game
-A weird football game for school project. Tabulate module required to run it.
+A football game for a school project. Tabulate module is required to run it.
